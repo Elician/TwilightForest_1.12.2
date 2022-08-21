@@ -1,0 +1,19 @@
+# Игнорировать все
+/*
+
+# Кроме директорий...
+!/gradle
+!/lib
+!/src
+
+# Кроме файлов...
+!.gitignore
+!.gitattributes
+!LICENSE
+!README.MD
+!changelog.txt
+!build.gradle
+!gradle.properties
+!gradlew
+!gradlew.bat
+!settings.gradle
